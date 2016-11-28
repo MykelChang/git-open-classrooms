@@ -1,2 +1,4 @@
 # git-open-classrooms
-Git &amp; GitHub - Partie 2 Activité
+Git & GitHub - Partie 2 Activité
+
+Modification du README.md
